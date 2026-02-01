@@ -24,11 +24,23 @@ Built entirely in Excel, the dashboard includes:
 -	Data Visualization & Storytelling
 -	Business Insight Generation
 
+## Data:
+[HR Performance Dashboard](https://github.com/Elizabeth-CJ/HR-Performance-Dashboard/blob/c8fd6de9c95456d11a7d42a600c45382948d4b8a/HR%20Performance%20Dashboard.xlsx)
+
+
 ## Results & Findings:
 -	Pay for performance exists but may be inconsistently applied across genders.
 -	Top male performers earn significantly higher salaries than bottom male performers. This trend that is less pronounced among female employees
 -	The age distribution leans towards a mature workforce, highlighting a potential need for retirement planning, succession management and generational talent strategies.
 -	There is a measurable gender pay gap of approximately 10.7%, with female employees earning less on average than their male counterparts. This warrants a deeper root-cause analysis.
+
+**Male Performer Salary Tiers**
+![Malesalarytiers](Malesalarytiers.png)
+
+**<p align="center">VS</p>**
+
+**Female Performer Salary Tiers**
+![Femalesalarytiers](Femalesalarytiers.png)
 
 ## Recommendations:
 -	Conduct a department-level pay gap analysis to identify whether discrepancies are localized or systemic.
