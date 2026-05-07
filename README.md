@@ -29,16 +29,23 @@ An exploratory HR dashboard built in Excel to analyze employee demographics, per
 -	The age distribution leans towards a mature workforce, highlighting a potential need for retirement planning, succession management and generational talent strategies.
 -	There is a measurable gender pay gap of approximately 10.7%, with female employees earning less on average than their male counterparts. This warrants a deeper root-cause analysis.
 
-**Male Performer Salary Tiers**
-![Malesalarytiers](Men Salary.png)
+<div align="center">
+ 
+<br> **Male Performer Salary Tiers**<br>
+
+<img src="Men.png" alt="Mensmall" width="600" height="auto"> 
+
 
 **<p align="center">VS</p>**
 
-**Female Performer Salary Tiers**
-![Femalesalarytiers](Woman.png)
+<br>**Female Performer Salary Tiers**<br>
+
+<img src="Woman.png" alt="Womansmall" width="600" height="auto"> 
+
+
+</div>
 
 ---
-
 
 ## Recommendations:
 -	Conduct a department-level pay gap analysis to identify whether discrepancies are localized or systemic.
