@@ -30,12 +30,12 @@ An exploratory HR dashboard built in Excel to analyze employee demographics, per
 -	There is a measurable gender pay gap of approximately 10.7%, with female employees earning less on average than their male counterparts. This warrants a deeper root-cause analysis.
 
 **Male Performer Salary Tiers**
-![Malesalarytiers](Malesalarytiers.png)
+![Malesalarytiers](Men Salary.png)
 
 **<p align="center">VS</p>**
 
 **Female Performer Salary Tiers**
-![Femalesalarytiers](Femalesalarytiers.png)
+![Femalesalarytiers](Woman.png)
 
 ---
 
