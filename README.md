@@ -1,32 +1,27 @@
-# HR Analytics Dashboard – Exploratory Data Analysis (EDA) in Excel
+# HR Analytics Dashboard – Exploratory Data Analysis (EDA)
 ## Executive Summary
-This project is an exploratory HR dashboard built in Excel to analyze employee demographics, performance, and compensation patterns. The dashboard answers critical HR questions related to workforce structure, performance-based pay, and gender pay equity.
+An exploratory HR dashboard built in Excel to analyze employee demographics, performance, and compensation patterns. The dashboard addresses key HR questions related to workforce structure and performance-based pay.
 
-## Key Questions Addressed:
-- How many employees do we have, and how are they distributed by age?
--	Do we reward performance fairly across salary bands?
--	Is there a noticeable salary gap between male and female employees?
+---
 
-## Methodology:
-Built entirely in Excel, the dashboard includes:
--	PivotTables and PivotCharts to aggregate performance by salary band
--	Age group segmentation for distribution insights
--	Interactive slicers (department, gender, region, manager status)
--	KPI Cards: Avg Salary, Avg Age, Avg Tenure, % Top Performers
--	Calculated comparisons between male/female salaries
+## Business Questions
+ 
+1. How is the workforce distributed by age?
+> Identifies workforce maturity and succession risk
 
-## Skills Used:
--	Exploratory Data Analysis (EDA)
--	Excel Dashboard Design
--	PivotTables & Charts
--	KPI Development
--	Gender Pay Analysis
--	Data Visualization & Storytelling
--	Business Insight Generation
+2. Do we reward performance fairly across salary bands?
+> Reveals whether pay-for-performance is functioning
 
-## Data:
-[HR Performance Dashboard](https://github.com/Elizabeth-CJ/HR-Performance-Dashboard/blob/c8fd6de9c95456d11a7d42a600c45382948d4b8a/HR%20Performance%20Dashboard.xlsx)
-
+---
+ 
+## Dashboard Features
+ 
+- **KPI Cards** — Avg Salary, Avg Age, Avg Tenure, % Top Performers
+- **PivotTables & PivotCharts** — Performance ratings by salary band and department
+- **Age Group Segmentation** — Headcount distribution across generational cohorts
+- **Gender Pay Comparison** — Salary breakdowns by performance tier and gender
+- **Interactive Slicers** — Filter by department, gender, region, and manager status
+---
 
 ## Results & Findings:
 -	Pay for performance exists but may be inconsistently applied across genders.
@@ -42,13 +37,24 @@ Built entirely in Excel, the dashboard includes:
 **Female Performer Salary Tiers**
 ![Femalesalarytiers](Femalesalarytiers.png)
 
+---
+
+
 ## Recommendations:
 -	Conduct a department-level pay gap analysis to identify whether discrepancies are localized or systemic.
 -	Review performance-based bonus and salary increase structures for gender parity.
 -	Use these insights to inform promotion, recognition, and retention strategies.
 
+---
 
 ## Next Steps
 -	Add time-series data to track trends in compensation, hiring, and attrition over time.
 -	Integrate a deeper pay gap analysis using regression or statistical testing.
 -	Incorporate attrition data to understand how performance and pay impact employee turnover.
+
+---
+  
+## Data:
+[HR Performance Dashboard](https://github.com/Elizabeth-CJ/HR-Performance-Dashboard/blob/c8fd6de9c95456d11a7d42a600c45382948d4b8a/HR%20Performance%20Dashboard.xlsx)
+
+
