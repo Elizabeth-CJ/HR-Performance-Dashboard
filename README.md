@@ -33,15 +33,13 @@ An exploratory HR dashboard built in Excel to analyze employee demographics, per
  
 <br> **Male Performer Salary Tiers**<br>
 
-<img src="Men.png" alt="Mensmall" width="600" height="auto"> 
-
+<img src="Woman.png" alt="Mensmall" width="600" height="auto"> 
 
 **<p align="center">VS</p>**
 
 <br>**Female Performer Salary Tiers**<br>
 
-<img src="Woman.png" alt="Womansmall" width="600" height="auto"> 
-
+<img src="Men.png" alt="Womansmall" width="600" height="auto"> 
 
 </div>
 
